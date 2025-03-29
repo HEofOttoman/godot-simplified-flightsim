@@ -10,15 +10,19 @@ config_version=5
 
 [application]
 
-config/name="Flight Sim"
+config/name="FBcosentino Flight Sim demo"
 run/main_scene="res://example/ExampleList.tscn"
-config/features=PackedStringArray("4.1")
+config/features=PackedStringArray("4.3")
 config/icon="res://icon.png"
 
 [display]
 
 window/stretch/mode="2d"
 window/stretch/aspect="keep_height"
+
+[dotnet]
+
+project/assembly_name="FBcosentino Flight Sim demo"
 
 [editor_plugins]
 
