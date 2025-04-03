@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://bryi5t3da7vhu"]
 
-[ext_resource type="Script" path="res://addons/simplified_flightsim/aircraft_modules/EnergyContainer/EnergyContainer.gd" id="1"]
+[ext_resource type="Script" uid="uid://cnl5tgminknwa" path="res://addons/simplified_flightsim/aircraft_modules/EnergyContainer/EnergyContainer.gd" id="1"]
 
 [node name="EnergyContainer" type="Node"]
 script = ExtResource("1")

@@ -23,7 +23,7 @@
 [ext_resource type="PackedScene" uid="uid://nhbm7re0glcb" path="res://example/scenes/Airplane/visuals/LandingGear/LandingGear.tscn" id="21"]
 [ext_resource type="PackedScene" uid="uid://yvlvo41d53v2" path="res://addons/simplified_flightsim/aircraft_modules/Controls/ControlFlaps.tscn" id="22"]
 [ext_resource type="PackedScene" uid="uid://b8s77ar81hq22" path="res://example/ui/UILandingGear/UILandingGear.tscn" id="23"]
-[ext_resource type="Script" path="res://example/Example2_Complex.gd" id="24"]
+[ext_resource type="Script" uid="uid://bftp7n6tpkucf" path="res://example/Example2_Complex.gd" id="24"]
 [ext_resource type="AudioStream" uid="uid://cvxa8h3yftguj" path="res://example/sfx/aircraft_modules/landing_gear/deploy.wav" id="25"]
 [ext_resource type="AudioStream" uid="uid://ch1k8klfyw0mq" path="res://example/sfx/aircraft_modules/landing_gear/stow.wav" id="26"]
 [ext_resource type="AudioStream" uid="uid://cqkqskpah2gx7" path="res://example/sfx/aircraft_modules/flaps/flap_loop.ogg" id="27"]

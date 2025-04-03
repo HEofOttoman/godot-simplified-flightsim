@@ -21,7 +21,7 @@
 [ext_resource type="PackedScene" uid="uid://bryi5t3da7vhu" path="res://addons/simplified_flightsim/aircraft_modules/EnergyContainer/EnergyContainer.tscn" id="22"]
 [ext_resource type="AudioStream" uid="uid://cvxa8h3yftguj" path="res://example/sfx/aircraft_modules/landing_gear/deploy.wav" id="24"]
 [ext_resource type="AudioStream" uid="uid://ch1k8klfyw0mq" path="res://example/sfx/aircraft_modules/landing_gear/stow.wav" id="25"]
-[ext_resource type="Script" path="res://example/Example3_Helicopter.gd" id="26"]
+[ext_resource type="Script" uid="uid://dpymp36ykvel4" path="res://example/Example3_Helicopter.gd" id="26"]
 [ext_resource type="Texture2D" uid="uid://d3w7kvckn8jf6" path="res://example/textures/faux_asphalt/ground_asphalt_synth_12.png" id="30"]
 [ext_resource type="PackedScene" uid="uid://begsn48c5vlu6" path="res://example/scenes/Airplane/visuals/HeliPropeller/HeliPropeller.tscn" id="31"]
 
@@ -229,8 +229,8 @@ tracks/1/keys = {
 
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_vtumk"]
 _data = {
-"RESET": SubResource("31"),
-"Show": SubResource("32")
+&"RESET": SubResource("31"),
+&"Show": SubResource("32")
 }
 
 [node name="Example" type="Node3D"]

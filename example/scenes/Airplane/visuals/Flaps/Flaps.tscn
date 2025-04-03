@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://w6vwxr3amalh"]
 
-[ext_resource type="Script" path="res://example/scenes/Airplane/visuals/Flaps/Flaps.gd" id="1"]
+[ext_resource type="Script" uid="uid://dffaopc15xubq" path="res://example/scenes/Airplane/visuals/Flaps/Flaps.gd" id="1"]
 
 [sub_resource type="BoxMesh" id="1"]
 size = Vector3(1.8, 0.1, 0.5)

@@ -24,7 +24,7 @@
 [ext_resource type="Texture2D" uid="uid://diobdop3l10em" path="res://example/textures/planets/2/sph_normal.png" id="22_d2stf"]
 [ext_resource type="PackedScene" uid="uid://d0mgf4yjnwxgl" path="res://addons/simplified_flightsim/Aircraft/Aircraft.tscn" id="23"]
 [ext_resource type="PackedScene" uid="uid://nhbm7re0glcb" path="res://example/scenes/Airplane/visuals/LandingGear/LandingGear.tscn" id="24"]
-[ext_resource type="Script" path="res://example/Example4_Space.gd" id="25"]
+[ext_resource type="Script" uid="uid://dqxyy7ojjhplm" path="res://example/Example4_Space.gd" id="25"]
 [ext_resource type="Texture2D" uid="uid://b0ljv2v22me4t" path="res://example/ui/arrow_down_dark.png" id="25_3h1g2"]
 [ext_resource type="AudioStream" uid="uid://cvxa8h3yftguj" path="res://example/sfx/aircraft_modules/landing_gear/deploy.wav" id="27"]
 [ext_resource type="Texture2D" uid="uid://d3w7kvckn8jf6" path="res://example/textures/faux_asphalt/ground_asphalt_synth_12.png" id="28"]

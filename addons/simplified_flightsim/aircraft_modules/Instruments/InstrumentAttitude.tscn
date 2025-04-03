@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://buaaaov7fu3iw"]
 
-[ext_resource type="Script" path="res://addons/simplified_flightsim/aircraft_modules/Instruments/InstrumentAttitude.gd" id="1"]
+[ext_resource type="Script" uid="uid://csqxgf7k6adaf" path="res://addons/simplified_flightsim/aircraft_modules/Instruments/InstrumentAttitude.gd" id="1"]
 
 [node name="InstrumentAttitude" type="Node"]
 script = ExtResource("1")

@@ -1,6 +1,6 @@
 [gd_scene load_steps=71 format=3 uid="uid://di4mmbdu6qiv1"]
 
-[ext_resource type="Script" path="res://example/Example1_Simple.gd" id="1"]
+[ext_resource type="Script" uid="uid://b4qhu74xe41ga" path="res://example/Example1_Simple.gd" id="1"]
 [ext_resource type="AudioStream" uid="uid://cvxa8h3yftguj" path="res://example/sfx/aircraft_modules/landing_gear/deploy.wav" id="2"]
 [ext_resource type="AudioStream" uid="uid://ch1k8klfyw0mq" path="res://example/sfx/aircraft_modules/landing_gear/stow.wav" id="3"]
 [ext_resource type="PackedScene" uid="uid://bryi5t3da7vhu" path="res://addons/simplified_flightsim/aircraft_modules/EnergyContainer/EnergyContainer.tscn" id="4"]

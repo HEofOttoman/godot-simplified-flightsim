@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://dd3ibt0wqf3eh"]
 
-[ext_resource type="Script" path="res://addons/simplified_flightsim/aircraft_modules/Controls/ControlLandingGear.gd" id="1"]
+[ext_resource type="Script" uid="uid://bx6u704iugf7q" path="res://addons/simplified_flightsim/aircraft_modules/Controls/ControlLandingGear.gd" id="1"]
 
 [node name="ControlLandingGear" type="Node"]
 script = ExtResource("1")
